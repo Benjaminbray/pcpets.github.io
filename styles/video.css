@@ -1,0 +1,107 @@
+
+/*video section container*/
+.video-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+/*PREVIEW1*/
+      .preview-1{
+  display: inline-block;
+  width: 300px;
+}
+.column1{
+  margin-bottom: 10px;
+}
+.video-info-grid{
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+.lhs-info{
+
+}
+.rhs-info{
+
+}
+.dp1{
+  width: 40px;
+  border-radius: 100px;
+}
+      /*PREVIEW2*/
+      .preview-2{
+  display: inline-block;
+  width: 300px;
+}
+.column2{
+  margin-bottom: 10px;
+}
+.video-info-grid-1{
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+.lhs-info2{
+
+}
+.rhs-info2{
+
+}
+.dp2{
+  width: 40px;
+  border-radius: 100px;
+}
+/*THUMBNAILS*/
+.img1
+{
+  width: 300px;
+}
+.img2
+{
+  width: 100%;
+}     
+/*ALL TEXT*/ 
+
+/*DIV1 TEXT*/
+.p1{
+ font-weight: 500;
+ margin-top: 0;
+}
+.p2{
+  font-size: 15px;
+}
+.p3{
+  font-size: 15px;
+}
+/*DIV2 TEXT*/
+.p1-1{
+ font-weight: 500;
+ margin-top: 0;
+}
+.p2-1{
+  font-size: 15px;
+}
+.p3-1{
+  font-size: 15px;
+}
+
+/*EMAIL DETAILS*/
+.firstname{
+  margin-bottom: 10px;
+  display:block;
+}
+.lastname{
+
+}
+.email{
+
+
+}
+.enter{
+  display: block;
+  margin-top: 10px;
+  border-radius: 30px;
+  width: 100px;
+  height: 20px;
+
+  background-color: yellow;
+  color: black;
+  border-color: black;
+}
