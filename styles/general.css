@@ -1,7 +1,11 @@
-p{
+.p{
   font-family: roboto;
 }
 
-body{
+.body{
   margin: 0;
+  margin-left: 90px;
+  margin-top: 70px;
 }
+
+
